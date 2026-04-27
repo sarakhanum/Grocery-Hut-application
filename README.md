@@ -1,6 +1,6 @@
 Grocery Hut Application
 
-Professional web-based online grocery shopping application developed using Django.
+ web-based online grocery shopping application developed using Django.
 Allows users to register, log in, and securely log out.
 Users can browse available grocery products with a simple interface.
 Search and filter functionality for quick product access.
