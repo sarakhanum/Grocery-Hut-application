@@ -1,4 +1,4 @@
-Grocery Hut Application
+Grocery Hut Application:
 
  web-based online grocery shopping application developed using Django.
  
